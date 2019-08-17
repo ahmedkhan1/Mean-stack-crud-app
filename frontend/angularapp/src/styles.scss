@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+$white : #fff;
+$main-body-color: #d2d2d2;
+
+
+
+body{
+    background: $main-body-color;
+}
+
+th {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid $white !important;
+  }
+
+  
